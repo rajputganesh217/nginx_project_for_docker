@@ -1,1 +1,3 @@
 redis_images.tar
+*.tar
+*.zip
